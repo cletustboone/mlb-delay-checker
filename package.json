@@ -1,0 +1,13 @@
+{
+  "name" : "tsn-delay-checker",
+  "version" : "1.0.0",
+  "private" : true,
+  "scripts" : {
+    "start" : "node monitor"
+  },
+  "dependencies" : {
+    "moment" : "*",
+    "underscore" : "*",
+    "inotify" : "*"
+  }
+}
